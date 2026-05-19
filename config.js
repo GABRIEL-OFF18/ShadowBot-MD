@@ -13,7 +13,7 @@ global.botnumber = '' //Ejemplo: +51927238856
 global.confirmCode = ''
 
 global.owner = [
-  ['51927238856', '𝑪𝒓𝒊𝒔𝒔 𝑬𝒔𝒄𝒐𝒃𝒂𝒓', true],
+  ['51941658192', '𝑪𝒓𝒊𝒔𝒔 𝑬𝒔𝒄𝒐𝒃𝒂𝒓', true],
   ['51965911060', '𝑺𝒉𝒂𝒅𝒐𝒘', true]
 ]
 
